@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">MyBookList</string>
+    <string name="book_name">Judul Buku</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_me">About Me</string>
+    <string name="my_name">Agus Tinus Turnip</string>
+    <string name="about">Saya merupakan mahasiswa yang saat ini sangat mengemari belajar bahasa pemrograman. Pada semester ini saya mencoba diri saya untuk mengikuti studi independent dari kamus merdeka. Kelas yang saya ambil merupakan kelas mobile dari bangkit academy</string>
+
+
+    <string-array name="data_name">
+        <item>Bilangan Fu</item>
+        <item>Kerudung Merah Kirmizi</item>
+        <item>Lara Rasa</item>
+        <item>Larung</item>
+        <item>Puisi Mbeling</item>
+        <item>Rasina</item>
+        <item>Saman</item>
+        <item>Solo Leveling 3</item>
+        <item>Ziarah</item>
+        <item>The Power</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Menjadi saksi rangkaian kejadian itu adalah Sandi Yuda, seorang pemanjat tebing yang melecehkan gaya hidup urban maupun takhayul pedesaan. la bertemu dengan Parang Jati, seseorang yang perlahan menyingkapkan misteri maupun kerentanan, dan mengubah cara berpikir Sandi Yuda.</item>
+        <item>Dengan latar belakang masa Orde Baru dan awal reformasi, novel ini menggambarkan secara telanjang liku-liku seorang pengusaha memanfaatkan oknum aparat keamanan dan para bandit untuk mencapai tujuannya. Dengan lincah Remy Sylado merangkai keharuan dan ketegangan menjadi kisah yang menawan; betapa cerita yang tulus dapat menjadi sumber kekuatan manusia dalam menghadapi marabahaya apapun wujudnya.</item>
+        <item>Di usia 28 tahun, Alara masih belum punya pekerjaan tetap, kondisi finansialnya memprihatinkan, dan target memiliki rumah sekaligus menikah sebelum berumur 30 terasa kian jauh dari jangkauan. Parahnya, dia justru membuat keputusan-keputusan salah dan memperumit hidupnya sendiri. Mulai dari bekerja di perusahaan rintisan yang membuatnya seakan kerja rodi, terlibat dalam drama percintaan yang videonya viral, sampai bertengkar hebat dengan orangtua.</item>
+        <item>Setelah sukses dengan Saman-nya, Ayu Utami kemudian memunculkan kelanjutan kisah empat sahabat perempuan dalam novel Larung. Tidak kalah bagus dari novel Saman, novel Larung ini seakan mengajak pembacanya untuk merefleksi moral dan keadilan hukum yang dimiliki oleh seluruh elemen masyarakat Indonesia, baik rakyat maupun penguasanya.</item>
+        <item>Inilah buku pertama yang memuat puisi-puisi mbeling karya Remy Sylado, pencetus gerakan puisi mbeling, dari 1971 sampai 2003. Dipilih sendiri oleh sang penyair, 143 puisi dalam buku ini akan membuat kita tersenyum, tertawa terbahak-bahak, atau merenung. Namun jangan salah sangka, di dalam kelakarnya Remy sebenarnya sedang bersikap serius.</item>
+        <item>Tahun 1755. Menjelang kebangkrutan VOC, imperium dagang terbesar di dunia, Jan Aldemaar Staalhart dan Joost Borstveld, sepasang petugas hukum, menemukan diri mereka terseret pusaran arus besar penyelundupan budak dan opium, yang melibatkan sejumlah orang penting di Batavia-Ommelanden.</item>
+        <item>Empat perempuan bersahabat sejak kecil. Shakuntala si pemberontak. Cok si binal. Yasmin yang selalu ingin ideal. Dan Laila, si lugu yang sedang bimbang untuk menyerahkan keperawanannya pada lelaki beristri.</item>
+        <item>Komik Solo Leveling adalah Webtoon asal Korea Selatan yang bergenre laga fantasi dan diterbitkan oleh Media. Solo Leveling awalnya merupakan novel seri Korea yang ditulis oleh Chugong. Novel ini diterbitkan pada 25 Juli 2016 dalam bentuk novel web. Setelah itu, novel Solo Leveling diterbitkan ke dalam bentuk novel ringan oleh media cetak pada tanggal 4 November 2016.</item>
+        <item>The Pilgrimage membuka jalan bagi Sang Alkemis karya Paulo Coelho untuk menjadi novel terlaris di tingkat internasional. Dalam banyak hal, kedua buku ini tak terpisahkan dan perlu dibaca kedua-duanya untuk memahaminya secara utuh. Dalam buku ini kita diajak mengikuti perjalanan ziarah Coelho sepanjang jalan menuju Santiago. Parabel ini menjajaki kebutuhan manusia untuk menemukan jalannya sendiri.</item>
+        <item>Di dalam buku ini, dunia adalah tempat yang lazim, dengan seorang pemuda berkebangsaan Nigeria yang bersantai di kolam keluarganya; anak asuh dengan orangtua yang berpura-pura religius; seorang politikus Amerika yang ambisius; serta gadis London yang tangguh dari keluarga yang rumit. Lalu muncullah satu kekuatan besar yang berakar dan terus berkembang, menyatukan hidup sekaligus membuatnya hancur berantakan</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bilangan_fu</item>
+        <item>@drawable/kerudung_merah_kirmizi</item>
+        <item>@drawable/lara_rasa</item>
+        <item>@drawable/larung</item>
+        <item>@drawable/puisi_mbeling</item>
+        <item>@drawable/rasina</item>
+        <item>@drawable/saman</item>
+        <item>@drawable/solo_leveling_3</item>
+        <item>@drawable/ziarah</item>
+        <item>@drawable/the_power</item>
+    </integer-array>
+    <string-array name="data_date">
+        <item>10 February 2019</item>
+        <item>05 July 2020</item>
+        <item>13 September 2020</item>
+        <item>15 May 2021</item>
+        <item>02 July 2021</item>
+        <item>20 September 2021</item>
+        <item>06 January 2022</item>
+        <item>10 April 2022</item>
+        <item>23 September 2022</item>
+        <item>17 February 2023</item>
+    </string-array>
+    <string-array name="data_status">
+        <item>Selesai</item>
+        <item>Selesai</item>
+        <item>Selesai</item>
+        <item>Selesai</item>
+        <item>Selesai</item>
+        <item>Selesai</item>
+        <item>Selesai</item>
+        <item>Selesai</item>
+        <item>Selesai</item>
+        <item>Dibaca</item>
+    </string-array>
+    <string name="title_activity_about_me">AboutMe</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
